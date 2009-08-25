@@ -1,0 +1,9 @@
+## Interface: 30200
+## Title: SCBuffChecker
+## Author: Schmurfy
+## Notes: Check if required buffs are all there
+## RequiredDeps: oUF
+
+
+main.lua
+
